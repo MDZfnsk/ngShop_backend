@@ -24,7 +24,7 @@ function authJwt(){
             // `${api}/users/register`
 
             
-            // { url: /(.*)/}
+            { url: /(.*)/}
         ]
     })
 }
